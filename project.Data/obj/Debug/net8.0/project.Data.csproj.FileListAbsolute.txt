@@ -1,0 +1,14 @@
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/bin/Debug/net8.0/project.Data.deps.json
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/bin/Debug/net8.0/project.Data.runtimeconfig.json
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/bin/Debug/net8.0/project.Data.dll
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/bin/Debug/net8.0/project.Data.pdb
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/obj/Debug/net8.0/project.Data.csproj.AssemblyReference.cache
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/obj/Debug/net8.0/project.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/obj/Debug/net8.0/project.Data.AssemblyInfoInputs.cache
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/obj/Debug/net8.0/project.Data.AssemblyInfo.cs
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/obj/Debug/net8.0/project.Data.csproj.CoreCompileInputs.cache
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/obj/Debug/net8.0/project.Data.dll
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/obj/Debug/net8.0/refint/project.Data.dll
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/obj/Debug/net8.0/project.Data.pdb
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/obj/Debug/net8.0/project.Data.genruntimeconfig.cache
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Data/obj/Debug/net8.0/ref/project.Data.dll

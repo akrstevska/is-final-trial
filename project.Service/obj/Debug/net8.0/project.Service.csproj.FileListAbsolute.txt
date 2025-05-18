@@ -1,0 +1,15 @@
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/bin/Debug/net8.0/project.Service.deps.json
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/bin/Debug/net8.0/project.Service.dll
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/bin/Debug/net8.0/project.Service.pdb
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/bin/Debug/net8.0/project.Data.dll
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/bin/Debug/net8.0/project.Data.pdb
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/obj/Debug/net8.0/project.Service.csproj.AssemblyReference.cache
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/obj/Debug/net8.0/project.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/obj/Debug/net8.0/project.Service.AssemblyInfoInputs.cache
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/obj/Debug/net8.0/project.Service.AssemblyInfo.cs
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/obj/Debug/net8.0/project.Service.csproj.CoreCompileInputs.cache
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/obj/Debug/net8.0/project..39FF43AE.Up2Date
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/obj/Debug/net8.0/project.Service.dll
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/obj/Debug/net8.0/refint/project.Service.dll
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/obj/Debug/net8.0/project.Service.pdb
+/Users/angelakrstevska/Desktop/uacs_year_3/is/trialProject/project.Service/obj/Debug/net8.0/ref/project.Service.dll
